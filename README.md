@@ -3,7 +3,7 @@
 
 About Me:
 
-Swift, SwiftUI, 4 iOS Apps released, 5 years of programming experience
+Swift, SwiftUI, 4 iOS Apps released, Developing apps since 2016
 
 15 years old, Living in Hamburg
 
