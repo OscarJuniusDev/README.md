@@ -5,7 +5,7 @@ About Me:
 
 Swift, SwiftUI, 4 iOS Apps released, Developing apps since 2016
 
-15 years old, Living in Hamburg
+16 years old, Living in Hamburg
 
 
 Released iOS Apps:
