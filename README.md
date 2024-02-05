@@ -5,7 +5,7 @@ Swift, SwiftUI, 4 iOS Apps released, Developing since 2016
 16 years old, Based in Hamburg
 
 
-iOS Apps:
+Released iOS Apps:
 
 (2020) https://apps.apple.com/de/app/my-favorite-things/id1530574139
 
