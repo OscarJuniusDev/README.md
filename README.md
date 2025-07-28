@@ -1,6 +1,6 @@
 # README
 
-Swift, SwiftUI, 4 iOS Apps released, Developing since 2016
+Swift, SwiftUI, 4 iOS Apps released, Programming since 2016
 
 18 years old, Based in Hamburg
 
